@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youmate/static/css/main.db240831.css",
+    "main.js": "/youmate/static/js/main.8a807c77.js",
+    "index.html": "/youmate/index.html",
+    "main.db240831.css.map": "/youmate/static/css/main.db240831.css.map",
+    "main.8a807c77.js.map": "/youmate/static/js/main.8a807c77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db240831.css",
+    "static/js/main.8a807c77.js"
+  ]
+}
